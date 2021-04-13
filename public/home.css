@@ -1,0 +1,29 @@
+body {
+	margin: 50px;
+}
+
+.form-control-label {
+	margin: 20px;
+	font-size: 25px;
+}
+
+#hora {
+	font-size: 20px
+}
+
+#resultado-label {
+	margin-top: 25px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	font-size: 25px;
+}
+
+li {
+	margin-left: 10px
+}
+
+.x {
+	margin-left: 10px;
+	margin: 5px;
+	line-height: 0.5;
+}

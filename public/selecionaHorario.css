@@ -1,0 +1,13 @@
+input {
+	margin-left: 20px;
+}
+
+.form-control-label {
+	margin: 20px;
+	font-size: 25px;
+}
+
+#submit, #voltar {
+	margin: 20px
+}
+
